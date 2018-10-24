@@ -1,0 +1,9 @@
+{
+    "id" : "NuiModule",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "NuiModule",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
