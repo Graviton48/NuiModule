@@ -26,7 +26,7 @@
                         },
                         {
                             "type": "UIText",
-                            "text": "Welcome.Press the 'Update Informtaion' button toget information about the world in real-time!",
+                            "text": "Welcome.Press the 'Update Informtaion' button to get information about the world in real-time!",
                             "id": "infoArea",
                             "layoutInfo": {
                                 "position-top": {
